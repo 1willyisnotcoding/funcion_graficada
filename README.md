@@ -1,4 +1,4 @@
-# funcion_graficada
+# Funciones Graficadas
 
 Este proyecto permite escribir una función matemática en Python y graficarla automáticamente con Manim. La idea es simple: escribes la función que quieras, el programa la interpreta y genera una animación en alta calidad mostrando su forma, los ejes con valores y los puntos donde cruza las rectas.
 
